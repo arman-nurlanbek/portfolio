@@ -1,0 +1,21 @@
+{
+    "Carbon Monoxide": [
+        "10 mg/m3 as a maximum daily running 8 hour mean",
+        "Capture Rate (%)"
+    ],
+    "Nitrogen Dioxide": [
+        "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "40 ug/m3 as an annual mean",
+        "Capture Rate (%)"
+    ],
+    "Ozone": [
+        "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "Capture Rate (%)"
+    ],
+    "Sulphur Dioxide": [
+        "125 ug/m3 as a 24 hour mean, not to be exceeded more than 3 times a year",
+        "266 ug/m3 as a 15 minute mean, not to be exceeded more than 35 times a year",
+        "350 ug/m3 as a 1 hour mean, not to be exceeded more than 24 times a year",
+        "Capture Rate (%)"
+    ]
+}
